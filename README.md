@@ -1,2 +1,2 @@
-# pyalgebra
-Lineal and abstract Python library 
+# pygroup
+Group theory with python.
